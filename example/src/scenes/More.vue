@@ -1,12 +1,12 @@
 <template>
   <div>
-    test one
+    test three
   </div>
 </template>
 
 <script>
 export default {
-  name: "HomeSceneComponent"
+  name: "MoreSceneComponent"
 };
 </script>
 
